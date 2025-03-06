@@ -1,4 +1,4 @@
-## ¡¡Hola!!,soy Cristian Mancha 👋
+## ¡¡Hola!!, soy Cristian Mancha 👋
 
 <!--
 **Sobre mi:
