@@ -1,9 +1,7 @@
-## Hi there 👋
+## ¡¡Hola!!,soy Cristian Mancha 👋
 
 <!--
-**Cristian250800/Cristian250800** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+**Sobre mi:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
