@@ -1,5 +1,7 @@
 ## ¡¡Hola!!, soy Cristian Mancha 👋
 
+**Sobre mí:
+
 <!--
 **Sobre mi:
 
