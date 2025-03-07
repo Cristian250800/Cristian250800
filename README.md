@@ -1,16 +1,14 @@
 ## ¡¡Hola!!, soy Cristian Mancha 👋
 
-#Sobre mí:
+<h2>Sobre mi:</h2>
 
-<!--
-**Sobre mi:
+<p>🌱Actualmente estoy estudiando DAW y un Máster de Big Data</p>
+<p>⚡Estoy aprendiendo sobre:
+    <li>JAVA</li>
+    <li>HTML</li>   
+    <li>CSS</li>
+    <li>JAVA SCRIP</li>
+    <li>PHYTON</li> 
+    </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
