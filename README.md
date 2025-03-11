@@ -13,7 +13,6 @@
     <li> <img src="https://img.shields.io/badge/-MySql-05122A?style=flat&logo=mysql"/></li>
   </ul>
 
-   
-   
+
      
    
