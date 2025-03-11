@@ -2,7 +2,7 @@
 
 <h2>Sobre mi:</h2>
 
-<p>🌱Actualmente estoy estudiando DAW y un Máster de Big Data.</p>
+<p>🌱Actualmente estoy estudiando DAW y un Máster de Full Stack.</p>
 <p>⚡Estoy aprendiendo sobre:</p>
   <ul>
     <li> <img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5"/></li>
